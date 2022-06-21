@@ -10,4 +10,7 @@ OVI | Veracruz, Mexico
      - Conditional structures
      - variable types
      - introduction to programming thinking
-          
+
+
+
+https://www.olimpiadadeinformatica.org.mx/OMI/OMI/Inicio.aspx
